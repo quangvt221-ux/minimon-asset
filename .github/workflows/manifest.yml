@@ -1,0 +1,23 @@
+name: Cập nhật manifest asset
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['manifest.json', 'README.md']
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Dựng lại manifest.json
+        run: python3 tools/build_manifest.py
+      - name: Commit nếu manifest đổi
+        run: |
+          if [ -n "$(git status --porcelain manifest.json)" ]; then
+            git config user.name "asset-bot"
+            git config user.email "asset-bot@users.noreply.github.com"
+            git add manifest.json
+            git commit -m "chore: cập nhật manifest.json [skip ci]"
+            git push
+          fi
