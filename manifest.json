@@ -1,5 +1,5 @@
 {
- "count": 55,
+ "count": 54,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -259,11 +259,6 @@
    "size": 456982,
    "v": "9f5dbc77",
    "w": 1024
-  },
-  "Minimon/Gener.webp": {
-   "sha256": "821a1e97dce6ffa3378a53ac2db3753c9b2a1ef6d8a8fd697dddddf14f4148d2",
-   "size": 1802842,
-   "v": "821a1e97"
   },
   "Minimon/Giner.png": {
    "h": 1536,
