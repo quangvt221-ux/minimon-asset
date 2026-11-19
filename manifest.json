@@ -1,5 +1,5 @@
 {
- "count": 58,
+ "count": 55,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -253,11 +253,6 @@
    "v": "02f77c4b",
    "w": 1024
   },
-  "Minimon/Djiking.webp": {
-   "sha256": "1584516e5e3eea3c1e93546426b160054cdcb592f3f77e0f62d86ce2752c2092",
-   "size": 1585032,
-   "v": "1584516e"
-  },
   "Minimon/Gener.png": {
    "h": 1536,
    "sha256": "9f5dbc77152b6e20ea0cb6075349a8f409a96d5109b3acbc4fcbe0185c5cc7aa",
@@ -284,22 +279,12 @@
    "v": "27c509c6",
    "w": 1024
   },
-  "Minimon/Stumix.webp": {
-   "sha256": "5cdb51b33ec91a844e85c6abc94a23455975232aa60aae7388520cd40719d18a",
-   "size": 1132554,
-   "v": "5cdb51b3"
-  },
   "Minimon/Wamantis.png": {
    "h": 1536,
    "sha256": "199c9a2cdb64d8077a8ac0daedecec787cb9e9c7d644f97bc74656f68269166f",
    "size": 492831,
    "v": "199c9a2c",
    "w": 1024
-  },
-  "Minimon/Wamantis.webp": {
-   "sha256": "bdad7bc4c73f7865376ee58006aaa9336b724845565951600eb1f96604348e9f",
-   "size": 1521362,
-   "v": "bdad7bc4"
   },
   "VFX/B1.png": {
    "h": 768,
