@@ -1,5 +1,5 @@
 {
- "count": 53,
+ "count": 58,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -246,20 +246,55 @@
    "v": "6b043434",
    "w": 256
   },
+  "Minimon/Djiking.png": {
+   "h": 1536,
+   "sha256": "02f77c4b17ee1ca9b69e3c257eab26d050620fd6924132ae96213c8d6ec6fc3a",
+   "size": 536851,
+   "v": "02f77c4b",
+   "w": 1024
+  },
   "Minimon/Djiking.webp": {
    "sha256": "1584516e5e3eea3c1e93546426b160054cdcb592f3f77e0f62d86ce2752c2092",
    "size": 1585032,
    "v": "1584516e"
+  },
+  "Minimon/Gener.png": {
+   "h": 1536,
+   "sha256": "9f5dbc77152b6e20ea0cb6075349a8f409a96d5109b3acbc4fcbe0185c5cc7aa",
+   "size": 456982,
+   "v": "9f5dbc77",
+   "w": 1024
   },
   "Minimon/Gener.webp": {
    "sha256": "821a1e97dce6ffa3378a53ac2db3753c9b2a1ef6d8a8fd697dddddf14f4148d2",
    "size": 1802842,
    "v": "821a1e97"
   },
+  "Minimon/Giner.png": {
+   "h": 1536,
+   "sha256": "e72ea4dbf35b74f81b8a4abd2323cf3114dbf7682bd7e36c9e85a3bf60bd8577",
+   "size": 479807,
+   "v": "e72ea4db",
+   "w": 1024
+  },
+  "Minimon/Stumix.png": {
+   "h": 1536,
+   "sha256": "27c509c60f7115144ef4a37b9408be973487f1334bc15221556db76ef66b3ef0",
+   "size": 374905,
+   "v": "27c509c6",
+   "w": 1024
+  },
   "Minimon/Stumix.webp": {
    "sha256": "5cdb51b33ec91a844e85c6abc94a23455975232aa60aae7388520cd40719d18a",
    "size": 1132554,
    "v": "5cdb51b3"
+  },
+  "Minimon/Wamantis.png": {
+   "h": 1536,
+   "sha256": "199c9a2cdb64d8077a8ac0daedecec787cb9e9c7d644f97bc74656f68269166f",
+   "size": 492831,
+   "v": "199c9a2c",
+   "w": 1024
   },
   "Minimon/Wamantis.webp": {
    "sha256": "bdad7bc4c73f7865376ee58006aaa9336b724845565951600eb1f96604348e9f",
