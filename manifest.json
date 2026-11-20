@@ -1,5 +1,5 @@
 {
- "count": 129,
+ "count": 128,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -686,13 +686,6 @@
    "size": 240660,
    "v": "79e2c3e1",
    "w": 1024
-  },
-  "Minimon/Spirilla.png": {
-   "h": 1152,
-   "sha256": "460c54966e7e44f493c10afbef7c9d6fef6f9e8b834af95ce94ef3d717ec91c5",
-   "size": 280884,
-   "v": "460c5496",
-   "w": 1728
   },
   "Minimon/Spookle.png": {
    "h": 1536,
