@@ -295,13 +295,6 @@
    "v": "fd137a8d",
    "w": 1024
   },
-  "Minimon/Bgbb.png": {
-   "h": 1264,
-   "sha256": "eb6fa44188a6016fb33f81d3b64e544f528896ae9e65168df3814674d73cda7e",
-   "size": 169453,
-   "v": "eb6fa441",
-   "w": 848
-  },
   "Minimon/Bita.png": {
    "h": 1248,
    "sha256": "72a3b49cea9bfaf5954b5a684b271934ffea2f058696e60586fdad4395cb7da6",
@@ -322,6 +315,13 @@
    "size": 303732,
    "v": "4aa3aa45",
    "w": 1024
+  },
+  "Minimon/Buggi.png": {
+   "h": 1264,
+   "sha256": "eb6fa44188a6016fb33f81d3b64e544f528896ae9e65168df3814674d73cda7e",
+   "size": 169453,
+   "v": "eb6fa441",
+   "w": 848
   },
   "Minimon/Buptus.png": {
    "h": 1536,
