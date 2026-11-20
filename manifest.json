@@ -1,5 +1,5 @@
 {
- "count": 128,
+ "count": 129,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -49,6 +49,13 @@
    "size": 1485362,
    "v": "d397cdd1",
    "w": 1376
+  },
+  "Field/Title3D.png": {
+   "h": 1152,
+   "sha256": "69a349bf4b415bcdfa3697a028737e146c22bcd5868cc0ee18657d1e44ff28cb",
+   "size": 677084,
+   "v": "69a349bf",
+   "w": 1024
   },
   "Icon/IconA1.png": {
    "h": 1024,
