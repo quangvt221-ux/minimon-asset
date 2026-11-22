@@ -1,5 +1,5 @@
 {
- "count": 145,
+ "count": 153,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -456,6 +456,13 @@
    "v": "73c6d47b",
    "w": 1152
   },
+  "Minimon/Fazimizu.png": {
+   "h": 1536,
+   "sha256": "e4f0211cd67ada374834bd6c9d1eefc5711f82e12c2ab176f1bb836be899a154",
+   "size": 3733547,
+   "v": "e4f0211c",
+   "w": 2560
+  },
   "Minimon/Fazymizu.png": {
    "h": 1536,
    "sha256": "c4fb0f9368ecbf7790810b529db68f2ee78390156e4410766610cf3771a58149",
@@ -497,6 +504,13 @@
    "size": 196127,
    "v": "faec60cd",
    "w": 848
+  },
+  "Minimon/Foxi.png": {
+   "h": 1536,
+   "sha256": "be2bc93e8a5c92f72423110d04b5841b208721f9da1cf2aa9978f207e22c3ae2",
+   "size": 2786583,
+   "v": "be2bc93e",
+   "w": 2560
   },
   "Minimon/Frostpup.png": {
    "h": 1536,
@@ -567,6 +581,27 @@
    "size": 256219,
    "v": "442d352a",
    "w": 2048
+  },
+  "Minimon/Havitron.png": {
+   "h": 1536,
+   "sha256": "acd09d55a5956384d4262bbf252891523e3ea764610ab60d93c2fd919ab162d6",
+   "size": 382798,
+   "v": "acd09d55",
+   "w": 2560
+  },
+  "Minimon/Hedarm.png": {
+   "h": 1536,
+   "sha256": "9827e175e2801e7b34c6a5462b1bf42825ef551aeaf74e14e9708c7aa3e45066",
+   "size": 2530481,
+   "v": "9827e175",
+   "w": 2560
+  },
+  "Minimon/Hegrou.png": {
+   "h": 971,
+   "sha256": "88472cba135ec29e96c705a344fa4e388fbe97811f99bbb30a8a02cf491a38c0",
+   "size": 2747340,
+   "v": "88472cba",
+   "w": 1619
   },
   "Minimon/Herasir.png": {
    "h": 1536,
@@ -843,24 +878,24 @@
   },
   "Minimon/VF3.png": {
    "h": 1536,
-   "sha256": "adbc176d51b298d77f1d317d0994a10669bd8b5f228d06d8eca22a424e7fc463",
-   "size": 343429,
-   "v": "adbc176d",
-   "w": 1024
+   "sha256": "0bab50ebebd15eeffc19ecc3095fbddf614caa956fd5acf8c930708e8463ad78",
+   "size": 3701757,
+   "v": "0bab50eb",
+   "w": 2560
   },
   "Minimon/VFcraft.png": {
    "h": 1536,
-   "sha256": "1a2346767e3c9c89dac5fa62192ca998a1112d2b761c1ceb00b7347314b9f7b2",
-   "size": 335079,
-   "v": "1a234676",
-   "w": 1536
+   "sha256": "6550530b2909c4961fdd470eb20f08faf209489dcac69f00ea5d25be8d298352",
+   "size": 3014174,
+   "v": "6550530b",
+   "w": 2560
   },
   "Minimon/VFrhino.png": {
    "h": 1536,
-   "sha256": "eb4ec478e80112cdb5a7d21db1dc09bab679828713e9ce65029232d0ff71f915",
-   "size": 346707,
-   "v": "eb4ec478",
-   "w": 1536
+   "sha256": "ea43cbe0dd1f2dfa6a43e0147af14f0590795fba097b6c8ca3259d2bf461a55e",
+   "size": 3470258,
+   "v": "ea43cbe0",
+   "w": 2560
   },
   "Minimon/Wamabu.png": {
    "h": 1194,
@@ -897,12 +932,33 @@
    "v": "267006f6",
    "w": 1024
   },
+  "Minimon/Woodvi.png": {
+   "h": 1536,
+   "sha256": "2b37bcdddec29341996d16dad9a5a5cd3a5063f92a30d08312bc75fc11de3451",
+   "size": 1527551,
+   "v": "2b37bcdd",
+   "w": 2560
+  },
   "Minimon/Youragon.png": {
    "h": 1536,
    "sha256": "8403412cfedd5c6be85402f08e6fce4cdfb599c908caa0b9936e0f2422247563",
    "size": 382505,
    "v": "8403412c",
    "w": 1024
+  },
+  "Minimon/Yvi.png": {
+   "h": 1536,
+   "sha256": "105967afeb1b7d4428be5f3e48643aae3bb6dd2d139b5d76d114ab491308e2b9",
+   "size": 369868,
+   "v": "105967af",
+   "w": 2560
+  },
+  "Minimon/Zerohog.png": {
+   "h": 1536,
+   "sha256": "b161d3d3e9f3541571241646a29e8c98f9fd688445b678ca4aa240c294a16c83",
+   "size": 500453,
+   "v": "b161d3d3",
+   "w": 2560
   },
   "VFX/B1.png": {
    "h": 768,
