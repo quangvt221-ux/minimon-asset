@@ -1,5 +1,5 @@
 {
- "count": 157,
+ "count": 156,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -470,19 +470,10 @@
    "v": "73c6d47b",
    "w": 1152
   },
-  "Minimon/Fazimizu.png": {
-   "h": 1536,
-   "sha256": "e4f0211cd67ada374834bd6c9d1eefc5711f82e12c2ab176f1bb836be899a154",
-   "size": 3733547,
-   "v": "e4f0211c",
-   "w": 2560
-  },
   "Minimon/Fazymizu.png": {
-   "h": 1536,
-   "sha256": "c4fb0f9368ecbf7790810b529db68f2ee78390156e4410766610cf3771a58149",
-   "size": 423428,
-   "v": "c4fb0f93",
-   "w": 1024
+   "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+   "size": 2,
+   "v": "7eb70257"
   },
   "Minimon/Flaminga.png": {
    "h": 1536,
