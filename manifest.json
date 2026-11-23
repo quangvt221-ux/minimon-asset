@@ -1,5 +1,5 @@
 {
- "count": 153,
+ "count": 155,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -316,6 +316,13 @@
    "v": "21e8e13f",
    "w": 1024
   },
+  "Minimon/Brussi.png": {
+   "h": 1536,
+   "sha256": "12145a54ceab6018b62b171c999dc0a72358a3af25410d5519e3e779f168abd4",
+   "size": 2363719,
+   "v": "12145a54",
+   "w": 2560
+  },
   "Minimon/Bubblo.png": {
    "h": 1536,
    "sha256": "4aa3aa452f79a84aa44916cdbef86b6a7a0d8a9ead746e89528eef141aee76ff",
@@ -342,6 +349,13 @@
    "sha256": "ee15810cc2eab33b4329a89675184438cc72233915cfaa8196c1db87874d92e4",
    "size": 295353,
    "v": "ee15810c",
+   "w": 2048
+  },
+  "Minimon/Canolafly.png": {
+   "h": 1536,
+   "sha256": "f4352fcad75ed3cd357f8d8effa431a4a0faedd248956ddd8beeffe105f79388",
+   "size": 2146609,
+   "v": "f4352fca",
    "w": 2048
   },
   "Minimon/Cato.png": {
@@ -492,18 +506,18 @@
    "w": 1536
   },
   "Minimon/FonCanon.png": {
-   "h": 1536,
-   "sha256": "449d81a4c493c037eba2e8e35ca4c4f7ced1d74d57752bfd577cad322c903abf",
-   "size": 272158,
-   "v": "449d81a4",
-   "w": 1024
+   "h": 1086,
+   "sha256": "46c2a13b27ab8a2915f9085bbe0391a3d21ac84a516a6b8e0c701e34df445793",
+   "size": 1573873,
+   "v": "46c2a13b",
+   "w": 1448
   },
   "Minimon/Fongiga.png": {
-   "h": 1264,
-   "sha256": "faec60cd7fb62d30970e634437c3efeeafca1fc546998de6499852fae32bb205",
-   "size": 196127,
-   "v": "faec60cd",
-   "w": 848
+   "h": 1536,
+   "sha256": "9c3003c5ce56e841191b05d6e34a6c0b17a4ff626221f7fe2f07904c1f94b623",
+   "size": 3196850,
+   "v": "9c3003c5",
+   "w": 2048
   },
   "Minimon/Foxi.png": {
    "h": 1536,
@@ -548,11 +562,11 @@
    "w": 1024
   },
   "Minimon/Gravlet.png": {
-   "h": 1264,
-   "sha256": "a02fcbd84bf4cf067007a555e3299ea7561b5b212aa7b2cbb8ff73114f9f1806",
-   "size": 171550,
-   "v": "a02fcbd8",
-   "w": 848
+   "h": 1536,
+   "sha256": "563857dc05f65c619d6b30b1f40ee801e5a98d14f7f61a39f8eb0b668e76d751",
+   "size": 3556894,
+   "v": "563857dc",
+   "w": 2048
   },
   "Minimon/Growly.png": {
    "h": 1536,
@@ -800,11 +814,11 @@
    "w": 1024
   },
   "Minimon/SouFon.png": {
-   "h": 1264,
-   "sha256": "df6758b9727c06ba76cb2a34ec7a556f0c35ded81e125f55ac1c9f9e175acf3e",
-   "size": 142254,
-   "v": "df6758b9",
-   "w": 848
+   "h": 1536,
+   "sha256": "63b695cb3ae22c6d4a9be14e94c78614e987c5553e71d5bba37474efc516460f",
+   "size": 3415607,
+   "v": "63b695cb",
+   "w": 2560
   },
   "Minimon/Sparkbat.png": {
    "h": 1536,
@@ -828,11 +842,11 @@
    "w": 1024
   },
   "Minimon/Sproutle.png": {
-   "h": 1264,
-   "sha256": "24bcf417f5517d0fafa69515ce1c2c1d549ebf47e7687c561b8ecd84640c6b5c",
-   "size": 225287,
-   "v": "24bcf417",
-   "w": 848
+   "h": 1536,
+   "sha256": "504b2a300912100147485f4fe316d6b8a82a716a958c68f6bc9d2e491a5f6fb4",
+   "size": 3226412,
+   "v": "504b2a30",
+   "w": 2560
   },
   "Minimon/Starboo.png": {
    "h": 1536,
@@ -849,11 +863,11 @@
    "w": 1024
   },
   "Minimon/Sufomi.png": {
-   "h": 1264,
-   "sha256": "074d08702c9ac17330a37557d06a19630db99a0a23e9a6bfe06c364bd550c80b",
-   "size": 707347,
-   "v": "074d0870",
-   "w": 843
+   "h": 1536,
+   "sha256": "71bc8e53705c62275c8839e0c1b12508df68b5974eb124676887ad9d7ea66656",
+   "size": 2299212,
+   "v": "71bc8e53",
+   "w": 2048
   },
   "Minimon/Teenfo.png": {
    "h": 1536,
@@ -997,9 +1011,9 @@
   },
   "VFX/VFX_CORE_01.png": {
    "h": 1152,
-   "sha256": "2b7b913f44ddb8a8cec7274ef7483cabfaeee480560c4e32af7e8b419b60b9e9",
-   "size": 831514,
-   "v": "2b7b913f",
+   "sha256": "f87ae49571aa136434abda1c16e6c7c44c4997dd0aa8bd4e62384350378a8f94",
+   "size": 242256,
+   "v": "f87ae495",
    "w": 768
   },
   "VFX/cat_1.png": {
