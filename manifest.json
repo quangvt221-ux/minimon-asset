@@ -1,5 +1,5 @@
 {
- "count": 156,
+ "count": 157,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -1019,6 +1019,13 @@
    "sha256": "f87ae49571aa136434abda1c16e6c7c44c4997dd0aa8bd4e62384350378a8f94",
    "size": 242256,
    "v": "f87ae495",
+   "w": 768
+  },
+  "VFX/VFX_CORE_02.png": {
+   "h": 1152,
+   "sha256": "31520d8e7e695229ff830ea7d56ef14b972c3d9e23c6d582527240125eba5573",
+   "size": 774110,
+   "v": "31520d8e",
    "w": 768
   },
   "VFX/cat_1.png": {
