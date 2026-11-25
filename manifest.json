@@ -318,9 +318,9 @@
   },
   "Minimon/Balando.png": {
    "h": 1536,
-   "sha256": "c116ffbf604e1e59a52aa547914665fcf7d13fd03f6ad099a47c380dca12c510",
-   "size": 809668,
-   "v": "c116ffbf",
+   "sha256": "ed45a9c0dc580446ee8b42ceb13c3f36268b5f17c2349cce4b6dc3dd8ae8d4de",
+   "size": 2315609,
+   "v": "ed45a9c0",
    "w": 2560
   },
   "Minimon/Batofat.png": {
@@ -1113,11 +1113,11 @@
    "w": 2172
   },
   "VFX/VFX_poison.png": {
-   "h": 724,
-   "sha256": "30fd7ebc46cccb22bf3866199c39e9a575d471170bf526b44cd54cacc89b3dc9",
-   "size": 1631914,
-   "v": "30fd7ebc",
-   "w": 2172
+   "h": 512,
+   "sha256": "1518720f894c0ccec53ea0ba7318fb54f034a9cd9e4fb2c64be964c9fc22bf3e",
+   "size": 1188616,
+   "v": "1518720f",
+   "w": 3072
   },
   "VFX/VFX_shield.png": {
    "h": 724,
@@ -1134,11 +1134,11 @@
    "w": 2172
   },
   "VFX/VFX_sleep.png": {
-   "h": 724,
-   "sha256": "3388d80020899a5cf362a74d99fe9fe48cdbcded3eb0ce1b5e2e4008850785d0",
-   "size": 417946,
-   "v": "3388d800",
-   "w": 2172
+   "h": 512,
+   "sha256": "701259d218537dcc960160b173e39c59084f5d245a92dbbcf87787e158ad2bc5",
+   "size": 562205,
+   "v": "701259d2",
+   "w": 3072
   },
   "VFX/VFX_slow.png": {
    "h": 724,
