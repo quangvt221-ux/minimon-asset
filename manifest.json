@@ -1,5 +1,5 @@
 {
- "count": 161,
+ "count": 174,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -70,6 +70,34 @@
    "size": 1102059,
    "v": "b74c770a",
    "w": 512
+  },
+  "Icon/Iconstats.png": {
+   "h": 887,
+   "sha256": "95b2b6b54cbefed7bded412045880fac4b70f9e18a534442f2b2622977f9ecba",
+   "size": 1268115,
+   "v": "95b2b6b5",
+   "w": 1774
+  },
+  "Icon/Item01.png": {
+   "h": 1024,
+   "sha256": "a36611ece7451af616f67b62d3a94cc7a7139386be3c8f790c901fa7a4447cc7",
+   "size": 275767,
+   "v": "a36611ec",
+   "w": 1024
+  },
+  "Icon/Item02.png": {
+   "h": 256,
+   "sha256": "fd0cab113e8c0d012b1c27f59925fd6117449939db5bb7324d71ecf4f0d688f4",
+   "size": 179708,
+   "v": "fd0cab11",
+   "w": 512
+  },
+  "Icon/Item03.png": {
+   "h": 887,
+   "sha256": "7bede7eafbfdcd467fbe0877284eea13367aff06c7a7fcd4c464d7d8d112a823",
+   "size": 2204286,
+   "v": "7bede7ea",
+   "w": 1774
   },
   "Item/IT001.png": {
    "h": 603,
@@ -1035,11 +1063,32 @@
    "v": "0d2478ee",
    "w": 768
   },
+  "VFX/VFX_bind.png": {
+   "h": 724,
+   "sha256": "a6042534f451f3f0c9bde99bee3744779252d94e6f7ee7373235520133a38a7d",
+   "size": 1028396,
+   "v": "a6042534",
+   "w": 2172
+  },
   "VFX/VFX_burn.png": {
    "h": 724,
    "sha256": "0bc4d44b9b7e3622f08a7c974d782f545dd4dbdd65483f26029c040bd9ea1a5c",
    "size": 804019,
    "v": "0bc4d44b",
+   "w": 2172
+  },
+  "VFX/VFX_fear.png": {
+   "h": 724,
+   "sha256": "410f909797116ea698d11a61e0e302b99c56764d08ff91a0d8cdb8237c1ee5c0",
+   "size": 1166126,
+   "v": "410f9097",
+   "w": 2172
+  },
+  "VFX/VFX_freeze.png": {
+   "h": 724,
+   "sha256": "833cfe5be764d3b7079446695b2d2c4dc200a0898c637430cce723b0ebfe1c29",
+   "size": 754996,
+   "v": "833cfe5b",
    "w": 2172
   },
   "VFX/VFX_para.png": {
@@ -1054,6 +1103,48 @@
    "sha256": "30fd7ebc46cccb22bf3866199c39e9a575d471170bf526b44cd54cacc89b3dc9",
    "size": 1631914,
    "v": "30fd7ebc",
+   "w": 2172
+  },
+  "VFX/VFX_shield.png": {
+   "h": 724,
+   "sha256": "a3c9e092870740b9dc4824fa8696bf1c458a42abc41398a40986b9a5a73bcbd9",
+   "size": 1155026,
+   "v": "a3c9e092",
+   "w": 2172
+  },
+  "VFX/VFX_silent.png": {
+   "h": 724,
+   "sha256": "a23bc775fd2a6ca9625359446a3bc2808a3179f346ad6df8525f60f531ee5852",
+   "size": 1491196,
+   "v": "a23bc775",
+   "w": 2172
+  },
+  "VFX/VFX_sleep.png": {
+   "h": 724,
+   "sha256": "3388d80020899a5cf362a74d99fe9fe48cdbcded3eb0ce1b5e2e4008850785d0",
+   "size": 417946,
+   "v": "3388d800",
+   "w": 2172
+  },
+  "VFX/VFX_slow.png": {
+   "h": 724,
+   "sha256": "2fb17a36991c782d7cdb14ace5c8a6e2bda9d53965a531f05c8826e719546916",
+   "size": 881123,
+   "v": "2fb17a36",
+   "w": 2172
+  },
+  "VFX/VFX_taunt.png": {
+   "h": 724,
+   "sha256": "b80bbe30ca4a1019614f7c203dac1c4396f110f9859118fc99c625c6169f26c2",
+   "size": 1316661,
+   "v": "b80bbe30",
+   "w": 2172
+  },
+  "VFX/VFX_thorn.png": {
+   "h": 724,
+   "sha256": "ed0316f29e154dcf072062bba26d1b469a621b6ad77de4167880e86785e924c9",
+   "size": 982466,
+   "v": "ed0316f2",
    "w": 2172
   },
   "VFX/cat_1.png": {
