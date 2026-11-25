@@ -1,5 +1,5 @@
 {
- "count": 174,
+ "count": 176,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -57,6 +57,13 @@
    "v": "69a349bf",
    "w": 1024
   },
+  "Icon/Gacha.png": {
+   "h": 1024,
+   "sha256": "784c7708ab95c15078605dd550f41dc3c6a7715abdb4edd3c70cafaf25e448c6",
+   "size": 1575193,
+   "v": "784c7708",
+   "w": 1536
+  },
   "Icon/IconA1.png": {
    "h": 1024,
    "sha256": "a36611ece7451af616f67b62d3a94cc7a7139386be3c8f790c901fa7a4447cc7",
@@ -98,6 +105,13 @@
    "size": 2204286,
    "v": "7bede7ea",
    "w": 1774
+  },
+  "Icon/Item04.png": {
+   "h": 1024,
+   "sha256": "59f3acfe3fede284879a423a5d3685b7e3aecba42894816e2145d6536b036896",
+   "size": 2312056,
+   "v": "59f3acfe",
+   "w": 1536
   },
   "Item/IT001.png": {
    "h": 603,
