@@ -1,5 +1,5 @@
 {
- "count": 160,
+ "count": 161,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -1037,9 +1037,16 @@
   },
   "VFX/VFX_burn.png": {
    "h": 724,
-   "sha256": "80b78024f4bb44e844c0845aef72a98616c968365b40cea47d6840efd2461aca",
-   "size": 1539504,
-   "v": "80b78024",
+   "sha256": "0bc4d44b9b7e3622f08a7c974d782f545dd4dbdd65483f26029c040bd9ea1a5c",
+   "size": 804019,
+   "v": "0bc4d44b",
+   "w": 2172
+  },
+  "VFX/VFX_para.png": {
+   "h": 724,
+   "sha256": "25e31594c482c13ace6aa35cfd1c8168f64cfc3bfe2ba5a31b27f11ca964675f",
+   "size": 709435,
+   "v": "25e31594",
    "w": 2172
   },
   "VFX/VFX_poison.png": {
