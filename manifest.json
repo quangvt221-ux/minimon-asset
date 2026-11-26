@@ -1,5 +1,5 @@
 {
- "count": 169,
+ "count": 172,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -62,6 +62,20 @@
    "sha256": "7eeabc63890aff34b7b86afb2885b27008df7eb1f9cb2dd2aba12eff388d20c9",
    "size": 2284981,
    "v": "7eeabc63",
+   "w": 1254
+  },
+  "Icon/FonCanon_ico.png": {
+   "h": 1254,
+   "sha256": "354769f0a33ac390c745c4b168d8117a085f1fb159523484fd14fb2f81e21bd6",
+   "size": 2409350,
+   "v": "354769f0",
+   "w": 1254
+  },
+  "Icon/Fongiga_ico.png": {
+   "h": 1254,
+   "sha256": "834c89bd75e9c47ee91f3679d27f4eb95da9c92ae5181565985e050df155c9ba",
+   "size": 2477665,
+   "v": "834c89bd",
    "w": 1254
   },
   "Icon/Gacha.png": {
@@ -463,10 +477,17 @@
   },
   "Minimon/Fongiga.png": {
    "h": 1536,
-   "sha256": "9c3003c5ce56e841191b05d6e34a6c0b17a4ff626221f7fe2f07904c1f94b623",
-   "size": 3196850,
-   "v": "9c3003c5",
-   "w": 2048
+   "sha256": "b8dc70595a3fafa57780876ed6cf89abd0a91619d4aac13c1813fb6c761a6a7e",
+   "size": 5551835,
+   "v": "b8dc7059",
+   "w": 2560
+  },
+  "Minimon/Fongiga_L.png": {
+   "h": 3072,
+   "sha256": "fd746731f8d51f204ba24938dcd9c1394ba8c4cbdc47c981552d11df4581f208",
+   "size": 18110353,
+   "v": "fd746731",
+   "w": 5120
   },
   "Minimon/Foxi.png": {
    "h": 1536,
