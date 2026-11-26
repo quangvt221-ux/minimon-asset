@@ -1,5 +1,5 @@
 {
- "count": 186,
+ "count": 187,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -128,6 +128,13 @@
    "w": 1254
   },
   "Icon/Quái Thú Lò Lửa Tóc Lửa.png": {
+   "h": 1254,
+   "sha256": "44aec46b3f849bf58d56fe80c6441fd327e1e39516df7f884e5d1e45d2153494",
+   "size": 2230967,
+   "v": "44aec46b",
+   "w": 1254
+  },
+  "Icon/Spycha_ico.png": {
    "h": 1254,
    "sha256": "44aec46b3f849bf58d56fe80c6441fd327e1e39516df7f884e5d1e45d2153494",
    "size": 2230967,
@@ -416,10 +423,10 @@
   },
   "Minimon/Buptus.png": {
    "h": 1536,
-   "sha256": "a69e8acfb67303cb11427a956fd753e1133ceb2f41558478d887164fd63fb02a",
-   "size": 284134,
-   "v": "a69e8acf",
-   "w": 1024
+   "sha256": "ec1193f7ec1588ade89594da3ac0f6faf2e2d572ca294bdeb85c38325eb3bfd7",
+   "size": 1817244,
+   "v": "ec1193f7",
+   "w": 2048
   },
   "Minimon/Buttavi.png": {
    "h": 1536,
@@ -1155,25 +1162,25 @@
    "w": 2172
   },
   "VFX/VFX_burn.png": {
-   "h": 256,
-   "sha256": "b69c76f50173b341d9778f59347c27d0713c1e49ece247fdc1c2589898cd647d",
-   "size": 244272,
-   "v": "b69c76f5",
-   "w": 1536
+   "h": 512,
+   "sha256": "f014be03c9e2c906e882744a849184b7a505e7a65b0fcf82e2ab9123a730000d",
+   "size": 840987,
+   "v": "f014be03",
+   "w": 3072
   },
   "VFX/VFX_fear.png": {
-   "h": 724,
-   "sha256": "410f909797116ea698d11a61e0e302b99c56764d08ff91a0d8cdb8237c1ee5c0",
-   "size": 1166126,
-   "v": "410f9097",
-   "w": 2172
+   "h": 512,
+   "sha256": "7f5e798f0f22f25629f75775e5db19b2e9d5da2d448b4c31770acea2f9318efb",
+   "size": 1633157,
+   "v": "7f5e798f",
+   "w": 3072
   },
   "VFX/VFX_freeze.png": {
-   "h": 724,
-   "sha256": "833cfe5be764d3b7079446695b2d2c4dc200a0898c637430cce723b0ebfe1c29",
-   "size": 754996,
-   "v": "833cfe5b",
-   "w": 2172
+   "h": 512,
+   "sha256": "ced99b57e56e19cbb9b443e5f20ad587b3d59ee9da6d675b71fd695c96d2a7e3",
+   "size": 1382769,
+   "v": "ced99b57",
+   "w": 3072
   },
   "VFX/VFX_para.png": {
    "h": 512,
@@ -1211,18 +1218,18 @@
    "w": 3072
   },
   "VFX/VFX_slow.png": {
-   "h": 724,
-   "sha256": "2fb17a36991c782d7cdb14ace5c8a6e2bda9d53965a531f05c8826e719546916",
-   "size": 881123,
-   "v": "2fb17a36",
-   "w": 2172
+   "h": 512,
+   "sha256": "5f596e048d1cfb05921f587266aa0afd7e317fa09368bad02ab57aa4e4726f7c",
+   "size": 1213759,
+   "v": "5f596e04",
+   "w": 3072
   },
   "VFX/VFX_taunt.png": {
-   "h": 724,
-   "sha256": "b80bbe30ca4a1019614f7c203dac1c4396f110f9859118fc99c625c6169f26c2",
-   "size": 1316661,
-   "v": "b80bbe30",
-   "w": 2172
+   "h": 512,
+   "sha256": "8d2cd7b70521ac225dd47c59469afc4bc15286481d6b7523bd26f14a6c4284c9",
+   "size": 1340137,
+   "v": "8d2cd7b7",
+   "w": 3072
   },
   "VFX/VFX_thorn.png": {
    "h": 512,
