@@ -1,5 +1,5 @@
 {
- "count": 178,
+ "count": 186,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -57,6 +57,13 @@
    "v": "69a349bf",
    "w": 1024
   },
+  "Icon/Buptus_ico.png": {
+   "h": 1254,
+   "sha256": "7eeabc63890aff34b7b86afb2885b27008df7eb1f9cb2dd2aba12eff388d20c9",
+   "size": 2284981,
+   "v": "7eeabc63",
+   "w": 1254
+  },
   "Icon/Gacha.png": {
    "h": 1024,
    "sha256": "784c7708ab95c15078605dd550f41dc3c6a7715abdb4edd3c70cafaf25e448c6",
@@ -112,6 +119,34 @@
    "size": 2312056,
    "v": "59f3acfe",
    "w": 1536
+  },
+  "Icon/Ivy_ico.png": {
+   "h": 1254,
+   "sha256": "9ff3533e042d0f01923644b49c3ec7e3ef6010dfb256cd667c4db725e7f306ad",
+   "size": 2323665,
+   "v": "9ff3533e",
+   "w": 1254
+  },
+  "Icon/Quái Thú Lò Lửa Tóc Lửa.png": {
+   "h": 1254,
+   "sha256": "44aec46b3f849bf58d56fe80c6441fd327e1e39516df7f884e5d1e45d2153494",
+   "size": 2230967,
+   "v": "44aec46b",
+   "w": 1254
+  },
+  "Icon/Tombog_ico.png": {
+   "h": 1536,
+   "sha256": "b94506cc11b7cf3fad729e2b7e9f6ddc0d65ecfaa9bd40bf31f3d1edced928f4",
+   "size": 2569857,
+   "v": "b94506cc",
+   "w": 1536
+  },
+  "Icon/Tomboyar_ico.png": {
+   "h": 1254,
+   "sha256": "3663c1b0f953e56a68d6c90013c3a0d5b2f03861c58a94874cd9ed80b8d39a8a",
+   "size": 2424182,
+   "v": "3663c1b0",
+   "w": 1254
   },
   "Item/IT001.png": {
    "h": 603,
@@ -692,6 +727,13 @@
    "v": "6681f0ec",
    "w": 1024
   },
+  "Minimon/Ivy.png": {
+   "h": 1536,
+   "sha256": "23a201de98922ddecab6849955b71ef43645186c4716326ee98141967e833ec6",
+   "size": 2304365,
+   "v": "23a201de",
+   "w": 2048
+  },
   "Minimon/Kimboo.png": {
    "h": 1536,
    "sha256": "6e180c4bd294e2b84aa7ced5a63001afecc07c1affafb79ab928ea0d349664df",
@@ -895,6 +937,13 @@
    "v": "504b2a30",
    "w": 2560
   },
+  "Minimon/Spycha.png": {
+   "h": 1536,
+   "sha256": "e0059e537bae5989647d93c94bda455cbe3fe8b54b157dc553168a72d78c3c02",
+   "size": 4048941,
+   "v": "e0059e53",
+   "w": 2048
+  },
   "Minimon/Starboo.png": {
    "h": 1536,
    "sha256": "789345f8f247c751dfd189e97622832cda8ca8714ee4f44d986c3acf8b8946bf",
@@ -931,11 +980,18 @@
    "w": 2048
   },
   "Minimon/Tombog.png": {
-   "h": 3072,
-   "sha256": "e48b0f6c6b1397f861cc8e2bbaaa5df1eac4b850f0edbaa772e15e8d8e04aaab",
-   "size": 14626432,
-   "v": "e48b0f6c",
-   "w": 4096
+   "h": 1536,
+   "sha256": "d359c1be83e013f68de8f6dfc9f3015da6d1ab7faad62f8cfaf3333fad3b8109",
+   "size": 4756647,
+   "v": "d359c1be",
+   "w": 2048
+  },
+  "Minimon/Tomboyar.png": {
+   "h": 1536,
+   "sha256": "19dfde34ab9c94e7178a13b4bb0b558f000f20626859006dfd9d0190d28b960f",
+   "size": 5174295,
+   "v": "19dfde34",
+   "w": 2048
   },
   "Minimon/Trin.png": {
    "h": 1536,
@@ -1120,11 +1176,11 @@
    "w": 2172
   },
   "VFX/VFX_para.png": {
-   "h": 724,
-   "sha256": "25e31594c482c13ace6aa35cfd1c8168f64cfc3bfe2ba5a31b27f11ca964675f",
-   "size": 709435,
-   "v": "25e31594",
-   "w": 2172
+   "h": 512,
+   "sha256": "939a1a1b970662432537d8bc9be60243f4b71f5ad87152e04af3dd235658eeca",
+   "size": 550220,
+   "v": "939a1a1b",
+   "w": 3072
   },
   "VFX/VFX_poison.png": {
    "h": 512,
@@ -1134,11 +1190,11 @@
    "w": 3072
   },
   "VFX/VFX_shield.png": {
-   "h": 724,
-   "sha256": "a3c9e092870740b9dc4824fa8696bf1c458a42abc41398a40986b9a5a73bcbd9",
-   "size": 1155026,
-   "v": "a3c9e092",
-   "w": 2172
+   "h": 512,
+   "sha256": "c0fc353654cb464e1139e0fc549d7e3a13c2cb56c3cfd9969c55c3c1c2baf0a4",
+   "size": 1007960,
+   "v": "c0fc3536",
+   "w": 3072
   },
   "VFX/VFX_silent.png": {
    "h": 512,
@@ -1169,11 +1225,11 @@
    "w": 2172
   },
   "VFX/VFX_thorn.png": {
-   "h": 724,
-   "sha256": "ed0316f29e154dcf072062bba26d1b469a621b6ad77de4167880e86785e924c9",
-   "size": 982466,
-   "v": "ed0316f2",
-   "w": 2172
+   "h": 512,
+   "sha256": "afa21a2bb05be080c10c260a8c7eaf5e7da9d209f05498e176c198429e11fc3b",
+   "size": 1638374,
+   "v": "afa21a2b",
+   "w": 3072
   },
   "VFX/cat_1.png": {
    "h": 906,
