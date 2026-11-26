@@ -1,5 +1,5 @@
 {
- "count": 170,
+ "count": 169,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -86,18 +86,18 @@
    "w": 512
   },
   "Icon/Iconstats.png": {
-   "h": 887,
-   "sha256": "95b2b6b54cbefed7bded412045880fac4b70f9e18a534442f2b2622977f9ecba",
-   "size": 1268115,
-   "v": "95b2b6b5",
-   "w": 1774
+   "h": 512,
+   "sha256": "691850d1782629bf5b976d0b0335c9a5fbea888247ff3dbd136e7502badb5192",
+   "size": 548539,
+   "v": "691850d1",
+   "w": 1024
   },
   "Icon/Item01.png": {
-   "h": 1024,
-   "sha256": "a36611ece7451af616f67b62d3a94cc7a7139386be3c8f790c901fa7a4447cc7",
-   "size": 275767,
-   "v": "a36611ec",
-   "w": 1024
+   "h": 256,
+   "sha256": "6530c21cfde9542fc37fa4e9c457dbabf859ad27f3db89a26d9a99cb998e78bd",
+   "size": 418829,
+   "v": "6530c21c",
+   "w": 1280
   },
   "Icon/Item02.png": {
    "h": 256,
@@ -107,31 +107,31 @@
    "w": 512
   },
   "Icon/Item03.png": {
-   "h": 887,
-   "sha256": "7bede7eafbfdcd467fbe0877284eea13367aff06c7a7fcd4c464d7d8d112a823",
-   "size": 2204286,
-   "v": "7bede7ea",
-   "w": 1774
+   "h": 768,
+   "sha256": "0a5b775f95fc2d7fce2d8cfd4a5af89be876473fec9c02cf27c1cf0502d366d2",
+   "size": 1842070,
+   "v": "0a5b775f",
+   "w": 1536
   },
   "Icon/Item04.png": {
-   "h": 1024,
-   "sha256": "59f3acfe3fede284879a423a5d3685b7e3aecba42894816e2145d6536b036896",
-   "size": 2312056,
-   "v": "59f3acfe",
-   "w": 1536
+   "h": 768,
+   "sha256": "3b8be9ef64a4a2a8ad0b456498f5a027b1d49b1afbb6ba0bce964d8aca866f4c",
+   "size": 890411,
+   "v": "3b8be9ef",
+   "w": 1024
+  },
+  "Icon/Item05.png": {
+   "h": 603,
+   "sha256": "c11d710bd80258ead6432be1c0886b54b9dc9d5b58ecafb5b4b45ff1792efcf1",
+   "size": 504745,
+   "v": "c11d710b",
+   "w": 1446
   },
   "Icon/Ivy_ico.png": {
    "h": 1254,
    "sha256": "9ff3533e042d0f01923644b49c3ec7e3ef6010dfb256cd667c4db725e7f306ad",
    "size": 2323665,
    "v": "9ff3533e",
-   "w": 1254
-  },
-  "Icon/Quái Thú Lò Lửa Tóc Lửa.png": {
-   "h": 1254,
-   "sha256": "44aec46b3f849bf58d56fe80c6441fd327e1e39516df7f884e5d1e45d2153494",
-   "size": 2230967,
-   "v": "44aec46b",
    "w": 1254
   },
   "Icon/Spycha_ico.png": {
@@ -154,13 +154,6 @@
    "size": 2424182,
    "v": "3663c1b0",
    "w": 1254
-  },
-  "Item/IT001.png": {
-   "h": 603,
-   "sha256": "c11d710bd80258ead6432be1c0886b54b9dc9d5b58ecafb5b4b45ff1792efcf1",
-   "size": 504745,
-   "v": "c11d710b",
-   "w": 1446
   },
   "Item/Room1.png": {
    "h": 900,
