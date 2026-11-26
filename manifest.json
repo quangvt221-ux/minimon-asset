@@ -1,5 +1,5 @@
 {
- "count": 161,
+ "count": 170,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -162,12 +162,75 @@
    "v": "c11d710b",
    "w": 1446
   },
+  "Item/Room1.png": {
+   "h": 900,
+   "sha256": "01a39272fc733662e58bdc97b17db262cb58f33bec90b9471430d6e9ef0ed879",
+   "size": 1645719,
+   "v": "01a39272",
+   "w": 1920
+  },
+  "Item/Room2.png": {
+   "h": 900,
+   "sha256": "caa4b1a9b218f9e640395cbd75e482bbc6cff82e9788ff2f4b20f06ea8586c2f",
+   "size": 1868045,
+   "v": "caa4b1a9",
+   "w": 1920
+  },
+  "Item/Room3.png": {
+   "h": 900,
+   "sha256": "949a8f4d00ae8d1b44781dfb842800e7b6d9339e89fbb4f064cb8d11545d8d46",
+   "size": 2198105,
+   "v": "949a8f4d",
+   "w": 1920
+  },
+  "Item/Room4.png": {
+   "h": 900,
+   "sha256": "acb58ac1f4645b37b36df41e2ea6d513bedf1da4bb706726e3a26c729c683dff",
+   "size": 2336299,
+   "v": "acb58ac1",
+   "w": 1920
+  },
+  "Item/RoomBia.png": {
+   "h": 640,
+   "sha256": "dcd51311eebc0dc198c0731fba1245246dd1e3667c8d009544e6cbdb84d1508b",
+   "size": 246321,
+   "v": "dcd51311",
+   "w": 512
+  },
+  "Item/RoomBia2.png": {
+   "h": 640,
+   "sha256": "ed0b3f3a190a0890562c0e421924db4dce4069aeb5b44c1c58fca369dddb1139",
+   "size": 344170,
+   "v": "ed0b3f3a",
+   "w": 512
+  },
+  "Item/RoomBia3.png": {
+   "h": 640,
+   "sha256": "a0b9e8d7f50e05c2d3dedaddeb49f3d88205c03952862cbf4deb9474881e1749",
+   "size": 384557,
+   "v": "a0b9e8d7",
+   "w": 512
+  },
+  "Item/RoomBia4.png": {
+   "h": 640,
+   "sha256": "96f2f427c903acc83fa37ff80ba9a0d106624421ed25a47f670462efd2f9a36b",
+   "size": 408681,
+   "v": "96f2f427",
+   "w": 512
+  },
   "Item/RoomFurn.png": {
    "h": 1024,
    "sha256": "a56530f56546164caeb8de5048f21cdae81dfaafb1d9340e684aa4f387e2a078",
    "size": 1414807,
    "v": "a56530f5",
    "w": 1536
+  },
+  "Item/RoomRobot.png": {
+   "h": 640,
+   "sha256": "830df81debe3c70d18aad7e16135b82f8bc3b6bb82adb637e28984a642142fa5",
+   "size": 313625,
+   "v": "830df81d",
+   "w": 512
   },
   "Minimon/BDrake.png": {
    "h": 1536,
