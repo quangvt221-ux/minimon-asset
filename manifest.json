@@ -1,5 +1,5 @@
 {
- "count": 172,
+ "count": 173,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -469,11 +469,18 @@
    "w": 1536
   },
   "Minimon/FonCanon.png": {
-   "h": 1086,
-   "sha256": "46c2a13b27ab8a2915f9085bbe0391a3d21ac84a516a6b8e0c701e34df445793",
-   "size": 1573873,
-   "v": "46c2a13b",
-   "w": 1448
+   "h": 1536,
+   "sha256": "f67058db5cadb316c644a3782c38fa74c8b2570ea3259e92cf392b654d993175",
+   "size": 4526288,
+   "v": "f67058db",
+   "w": 2560
+  },
+  "Minimon/Foncanon_L.png": {
+   "h": 3072,
+   "sha256": "784d98872054249c117b8ce05e2e628306e550ca42b1d0fa90adfe9bcb0bd029",
+   "size": 14500645,
+   "v": "784d9887",
+   "w": 5120
   },
   "Minimon/Fongiga.png": {
    "h": 1536,
