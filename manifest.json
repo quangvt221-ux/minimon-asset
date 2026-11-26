@@ -345,17 +345,17 @@
    "w": 1024
   },
   "Minimon/Bita.png": {
-   "h": 1248,
-   "sha256": "72a3b49cea9bfaf5954b5a684b271934ffea2f058696e60586fdad4395cb7da6",
-   "size": 171987,
-   "v": "72a3b49c",
-   "w": 832
+   "h": 1536,
+   "sha256": "67b7460a50e1226c57859a42362e9b0ff8cee6773bb46e4e5939e21609357c09",
+   "size": 1373585,
+   "v": "67b7460a",
+   "w": 1024
   },
   "Minimon/Boomizu.png": {
    "h": 1536,
-   "sha256": "21e8e13ff021eb15710886dde3f075a185b7fe1dde5dc66d95991042a7ae8f09",
-   "size": 252228,
-   "v": "21e8e13f",
+   "sha256": "23e89a08dc293efe2056c8ac8cf00a8a8bbbce2839c4441c2f42b48708eb529b",
+   "size": 719522,
+   "v": "23e89a08",
    "w": 1024
   },
   "Minimon/Brussi.png": {
@@ -756,11 +756,11 @@
    "w": 1024
   },
   "Minimon/Mitomaze.png": {
-   "h": 1152,
-   "sha256": "a2a72ffb27db8b534acce80a09fe52baad2e7a0bdaa6a2cf398cab8944162d74",
-   "size": 233131,
-   "v": "a2a72ffb",
-   "w": 1152
+   "h": 1536,
+   "sha256": "6df490571fd09964f61c3eea66aadbc7f35a21ad272ff26f52e1385649877e43",
+   "size": 2591610,
+   "v": "6df49057",
+   "w": 1536
   },
   "Minimon/Musron.png": {
    "h": 1536,
@@ -862,16 +862,16 @@
   },
   "Minimon/SouFon.png": {
    "h": 1536,
-   "sha256": "63b695cb3ae22c6d4a9be14e94c78614e987c5553e71d5bba37474efc516460f",
-   "size": 3415607,
-   "v": "63b695cb",
+   "sha256": "4343fb4f5010082f3e2404cdd056c2e3fe26d6a4111e3963c89a31e477e1c9dd",
+   "size": 3439142,
+   "v": "4343fb4f",
    "w": 2560
   },
   "Minimon/Sparkbat.png": {
    "h": 1536,
-   "sha256": "79e2c3e1a3f12036ebe5af720de15af2fb80cd2653e80087e8232236d129b786",
-   "size": 240660,
-   "v": "79e2c3e1",
+   "sha256": "875b412a44c0f513806c46428041b7d3e8976d4a7c5a2958ff52512125f4953c",
+   "size": 576392,
+   "v": "875b412a",
    "w": 1024
   },
   "Minimon/Spirilla.png": {
@@ -1141,11 +1141,11 @@
    "w": 2172
   },
   "VFX/VFX_silent.png": {
-   "h": 724,
-   "sha256": "a23bc775fd2a6ca9625359446a3bc2808a3179f346ad6df8525f60f531ee5852",
-   "size": 1491196,
-   "v": "a23bc775",
-   "w": 2172
+   "h": 512,
+   "sha256": "29fa0f42f3d6a82dac729e6671a3de73a2860b4a397a6016ae46a8c0e2ab0488",
+   "size": 1545474,
+   "v": "29fa0f42",
+   "w": 3072
   },
   "VFX/VFX_sleep.png": {
    "h": 512,
