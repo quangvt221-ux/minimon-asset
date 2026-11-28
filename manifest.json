@@ -73,9 +73,9 @@
   },
   "Icon/Icon003.png": {
    "h": 1280,
-   "sha256": "75c3651b043e41d3ff873c8c951d14ac1322746b6b0fe269aaacbf7029632106",
-   "size": 1684781,
-   "v": "75c3651b",
+   "sha256": "31104435e6e4f93ac64e889aaf177c3eb4ea2ccfc7f92de68a127e380d863206",
+   "size": 1849953,
+   "v": "31104435",
    "w": 1280
   },
   "Icon/Icon004.png": {
@@ -521,9 +521,9 @@
   },
   "Minimon/Gravlet.png": {
    "h": 1536,
-   "sha256": "14c9bdf2a91c5ab7cd99ce8c79aefc002b554d1e8747281df6fbff870ea018a2",
-   "size": 3917933,
-   "v": "14c9bdf2",
+   "sha256": "4fc0058f4d4556528e40412dfcef4d16cbc7995c7921cd2b3ec93f6cd9ee141d",
+   "size": 3914682,
+   "v": "4fc0058f",
    "w": 2048
   },
   "Minimon/Growly.png": {
@@ -766,10 +766,10 @@
   },
   "Minimon/Rot.png": {
    "h": 1536,
-   "sha256": "a96201b94f435fd66e5c211fe19cb1c8c2c5b1c10a8e903f08cda5d5b83b1a0c",
-   "size": 374597,
-   "v": "a96201b9",
-   "w": 1024
+   "sha256": "342c6a49692fc76aac0ac45aae4f320b1a8ec6cd01d80d08ae12574608226c5a",
+   "size": 4546041,
+   "v": "342c6a49",
+   "w": 2048
   },
   "Minimon/Samuchino.png": {
    "h": 1536,
@@ -864,9 +864,9 @@
   },
   "Minimon/Tombayar.png": {
    "h": 1536,
-   "sha256": "679ae56731b398c9c08279c2af27c9151c337a54f9b5b203cb1065be606fc613",
-   "size": 4423869,
-   "v": "679ae567",
+   "sha256": "f4b91f09e58a9e16a5c19198064236155127b25a8acfb5cc962808f7cb8b9ee8",
+   "size": 4418747,
+   "v": "f4b91f09",
    "w": 2048
   },
   "Minimon/Tombog.png": {
@@ -884,11 +884,11 @@
    "w": 2048
   },
   "Minimon/Trin.png": {
-   "h": 1536,
-   "sha256": "c5a26f28f5ffa38c817502ee9b3db8790cc4e95652fa7a90cb9f504f95028cbb",
-   "size": 446021,
-   "v": "c5a26f28",
-   "w": 1024
+   "h": 1086,
+   "sha256": "211f393b7b1ea77f44471dc437ec562294ef8c1a5c3512707d64e56c0598a18a",
+   "size": 3076699,
+   "v": "211f393b",
+   "w": 1448
   },
   "Minimon/TumbSte.png": {
    "h": 1264,
