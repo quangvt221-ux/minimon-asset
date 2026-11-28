@@ -1,5 +1,5 @@
 {
- "count": 170,
+ "count": 174,
  "files": {
   "Field/DoiCoNon.png": {
    "h": 768,
@@ -73,9 +73,16 @@
   },
   "Icon/Icon003.png": {
    "h": 1280,
-   "sha256": "bca3ec72d9f4c40dc597ae8c3ed2a78bb7c68ef8c06f40a4d41c902ce19890d7",
-   "size": 882076,
-   "v": "bca3ec72",
+   "sha256": "2b61506f916a9b5f673b6eb44fb8125241bc145cdc0539cc1b46863d7e853458",
+   "size": 1355829,
+   "v": "2b61506f",
+   "w": 1280
+  },
+  "Icon/Icon004.png": {
+   "h": 1280,
+   "sha256": "36c471aed97ac66b7f95a5a45d9c859eeb2827d747c5d029fc71aca6781a5881",
+   "size": 990525,
+   "v": "36c471ae",
    "w": 1280
   },
   "Icon/IconA1.png": {
@@ -297,10 +304,10 @@
   },
   "Minimon/Cato.png": {
    "h": 1536,
-   "sha256": "ced85163387bad2dd3d0ac801adc183be1cce320919e4c7b3ff4487bdb18d2a7",
-   "size": 222117,
-   "v": "ced85163",
-   "w": 1024
+   "sha256": "795d5e099540a88683ed8adae74406f057b20f9a3bc763f85464802f42cf3c74",
+   "size": 4207207,
+   "v": "795d5e09",
+   "w": 2560
   },
   "Minimon/Chita.png": {
    "h": 1536,
@@ -318,10 +325,10 @@
   },
   "Minimon/Coon.png": {
    "h": 1536,
-   "sha256": "63086066067d080c5cbbe4246483e9d94763271e8f11790b994323ea0cd1af24",
-   "size": 311091,
-   "v": "63086066",
-   "w": 1024
+   "sha256": "e6424e178c6295350e544092d5319b3d17aeb300acc0ff4065743e6a07c396fb",
+   "size": 5174550,
+   "v": "e6424e17",
+   "w": 2560
   },
   "Minimon/Dbone.png": {
    "h": 1536,
@@ -395,10 +402,10 @@
   },
   "Minimon/Efansia.png": {
    "h": 1536,
-   "sha256": "78bee1218c0001338473d860d41685ee4a2d3d5e6dc76357fa132d5679302e80",
-   "size": 408342,
-   "v": "78bee121",
-   "w": 1024
+   "sha256": "541fff1815cb77a39f6238513308ddacef479999a593832f3acbbf3a444338d4",
+   "size": 4115798,
+   "v": "541fff18",
+   "w": 2560
   },
   "Minimon/Elfan.png": {
    "h": 1536,
@@ -408,11 +415,11 @@
    "w": 2048
   },
   "Minimon/Fantasia.png": {
-   "h": 1152,
-   "sha256": "73c6d47b5e2248b6790117cd95a331fbd20c4ea88be495e94c50d07cce0ebb4c",
-   "size": 200472,
-   "v": "73c6d47b",
-   "w": 1152
+   "h": 1536,
+   "sha256": "1e5a47161173de312107649bc7622cf1e78b3050d3b33eb8d02dc33bbeb7323d",
+   "size": 3882752,
+   "v": "1e5a4716",
+   "w": 2048
   },
   "Minimon/Fazymizu.png": {
    "h": 1536,
@@ -521,10 +528,10 @@
   },
   "Minimon/Growly.png": {
    "h": 1536,
-   "sha256": "c376900301e858a94c36f9112e000d429be4d1ee2a43b9e4b5ce29fd5c9d6883",
-   "size": 202686,
-   "v": "c3769003",
-   "w": 1024
+   "sha256": "9e6ff59f3f11d1684a865c3eba3f0fd3c38366b1ec238bb2057bc66244acc726",
+   "size": 2379140,
+   "v": "9e6ff59f",
+   "w": 2560
   },
   "Minimon/Havi.png": {
    "h": 1536,
@@ -980,6 +987,27 @@
    "size": 569878,
    "v": "457d642a",
    "w": 2560
+  },
+  "Minimon/Zona.png": {
+   "h": 1536,
+   "sha256": "5d94b360c8ddc3e2b157596c01e228a13321254333b3bbd594b14b1aaf412fe2",
+   "size": 4398520,
+   "v": "5d94b360",
+   "w": 2048
+  },
+  "Minimon/Zonnarya.png": {
+   "h": 3072,
+   "sha256": "0a3a2987ad653c35f70a3cee2e250b41c242c8d208a01fecc07b26112dd1353a",
+   "size": 12119515,
+   "v": "0a3a2987",
+   "w": 4096
+  },
+  "Minimon/Zonzonroa.png": {
+   "h": 3072,
+   "sha256": "08658bdfd55e0faf40d281bf0ae3050990c0a80796712ed8284eda64b9bd4382",
+   "size": 15918473,
+   "v": "08658bdf",
+   "w": 4096
   },
   "VFX/B1.png": {
    "h": 768,
